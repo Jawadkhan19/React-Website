@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.3395ca46.css",
+    "main.js": "/React-Website/static/js/main.db02f859.js",
+    "static/media/home2.jpg": "/React-Website/static/media/home2.c818e5d8333c2658f9c3.jpg",
+    "static/media/graphic.jpg": "/React-Website/static/media/graphic.2657804bba833b1815b3.jpg",
+    "static/media/port2.jpg": "/React-Website/static/media/port2.c0e8e31c57dad2f06be0.jpg",
+    "static/media/about.jpg": "/React-Website/static/media/about.a339528909bc62b2e00c.jpg",
+    "static/media/home.jpg": "/React-Website/static/media/home.6a8d2d0dc15e8a2954ed.jpg",
+    "static/media/port1.jpg": "/React-Website/static/media/port1.c3c7c7eefe2c46e7ff22.jpg",
+    "static/media/web.jpg": "/React-Website/static/media/web.13a7db1cc5b882a1840a.jpg",
+    "static/media/digital.jpg": "/React-Website/static/media/digital.f99572675619a276b32d.jpg",
+    "static/media/port3.jpg": "/React-Website/static/media/port3.a8c8c6ad747249bb4983.jpg",
+    "static/media/app.jpg": "/React-Website/static/media/app.2080efc461aad5995ea3.jpg",
+    "static/media/seo.jpg": "/React-Website/static/media/seo.439d0f7218bdde8985bf.jpg",
+    "static/media/content.jpg": "/React-Website/static/media/content.af47735969543011c2a4.jpg",
+    "index.html": "/React-Website/index.html",
+    "main.3395ca46.css.map": "/React-Website/static/css/main.3395ca46.css.map",
+    "main.db02f859.js.map": "/React-Website/static/js/main.db02f859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3395ca46.css",
+    "static/js/main.db02f859.js"
+  ]
+}
